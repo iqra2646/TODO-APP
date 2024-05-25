@@ -1,0 +1,11 @@
+.iqra{
+    height: 100vh;
+}
+.catagoryTag::after{
+    cursor: pointer;
+}
+.catagoryTag::after{
+    content: "x";
+    font-size: 20px;
+    color: brown;
+}
